@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Bunny!
 
 <!--
 **bunny-mack/bunny-mack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I graduated LaunchCode's [LC101](https://www.launchcode.org/lc101) course in May 2022 and am currently in their [Liftoff](https://www.launchcode.org/liftoff) program.
+
+I'm currently working on a capstone project using Java, JavaScript, and Angular.
