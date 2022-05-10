@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I graduated LaunchCode's [LC101](https://www.launchcode.org/lc101) course in May 2022 and am currently in their [Liftoff](https://www.launchcode.org/liftoff) program.
 
-I'm currently working on a capstone project using Java, JavaScript, and Angular.
+I'm currently working on a capstone project using React and Java.
