@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I graduated LaunchCode's [LC101](https://www.launchcode.org/lc101) course in May 2022 and am currently in their [Liftoff](https://www.launchcode.org/liftoff) program.
-
-I'm currently working on a capstone project using React and Java.
+I graduated LaunchCode's [LC101](https://www.launchcode.org/lc101) course in May 2022 and am currently a Programmer Analyst at Edward Jones.
